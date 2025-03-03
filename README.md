@@ -33,7 +33,7 @@ This module is responsible for detecting and avoiding obstacles that are not inc
 ## Main
 The main script integrates all modules into a working system, ensuring seamless operation between vision, navigation, and control components.
 
-![General Workflow](full_pipeline.jpg)
+![General Workflow](full_pipline.jpg)
 
 ## Installation & Dependencies
 To run this project, install the necessary dependencies:
